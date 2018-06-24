@@ -1,0 +1,55 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 22 juin 2018, 12:00:26
+    Author     : Félix
+*/
+
+
+body{
+    background-image: url(http://4everstatic.com/images/nature/univers/ciel-etoile,-etoiles-196389.jpg);
+}
+
+p{
+    color: antiquewhite;
+    font-size: 20px;
+}
+
+h1{
+    text-align: center;
+}
+
+#score{
+    text-align: center;
+}
+
+.clear{
+    clear: both;
+}
+#size-bloc{
+    margin-left: -50px;
+    padding-left: 50%;
+}
+
+#size-title{
+    float: left;
+    margin-top: 0px;
+}
+
+#size{
+    width: 50px;
+    margin-left: 10px;
+    border-radius: 3px;
+}
+
+#canvas{
+    background-color: burlywood;
+}
+
+#canvas-block{
+    margin-left: -250px;
+    padding-left: 50%;
+}
